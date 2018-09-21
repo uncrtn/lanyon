@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Step Counter
+title: Step Log
 ---
 
-I was browsing some Micro.blog pages when I came across the [2018 Running Challenge](https://burk.io/running/) page from @burk. I hope he doesn’t mind me borrowing his idea and adapting it for myself. 
+I was browsing some Micro.blog pages when I came across the [2018 Running Challenge](https://burk.io/running/) page from [@burk](https://micro.blog/Burk). I hope he doesn’t mind me borrowing his idea and adapting it for myself. 
 
 It’s been a while since I have been running on a consistent basis so I thought it best to track overall steps for each week. And, since I am starting late in the year, I am going to break the year up into three segments. I will keep track of fall, spring, and summer as if I was going back to school. I find that I work better with short term goals so breaking it up this way should help. 
 
