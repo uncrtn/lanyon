@@ -3,36 +3,10 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+# Hi, I’m Paul
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+I write online. I have been a passive spectator online for a long time. Recently, I decided to make things for the web instead of just consuming media.
 
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
+Since you’re reading this, you should consider making something online yourself. For writing, I suggest [Micro.blog](https://micro.blog) but there are lots of other options out there. When considering where to write, I highly encourage you to write at a place where you retain all rights to your work. You can always repost on Twitter, Facebook, etc, but the origin point of your work should remain under your control.
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="/page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="/">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
-
+This blog is a place to keep track of whatever I end up making. I don’t have a set plan on what I will make but there is much to learn. Along the way, I will link to interesting reads and resources I find. 
