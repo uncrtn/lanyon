@@ -14,7 +14,7 @@ One reason to keep track of steps instead of miles is that the numbers look huge
 
 I am also taking advantage of the fact that I racked up lots of steps at the start of September while abroad. 
 
-| Week | Avg. Per Day | Steps per Week |
+| Week | Avg. per Day | Steps per Week |
 |:--:|--:|--:|
 | 1 | 15,989 | 111,921 |
 | 2 | 11,385 | 79,697 |
