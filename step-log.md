@@ -35,4 +35,4 @@ I am also taking advantage of the fact that I racked up lots of steps at the sta
 | 17 |  |  |
 |Total| 7,883 | 331,076 |
 
-_Updated 10/08/2018_
+_Updated 10/15/2018_
