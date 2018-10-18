@@ -19,9 +19,9 @@ I am also taking advantage of the fact that I racked up lots of steps at the sta
 | 1 | 15,989 | 111,921 |
 | 2 | 11,385 | 79,697 |
 | 3 | 7,593 | 53,153 |
-| 4 | 5,259 | 36,812 |
-| 5 |  |  |
-| 6 |  |  |
+| 4 | <span style="color:red">5,259</span> | 36,812 |
+| 5 | <span style="color:red">7,489</span> | 52,423 |
+| 6 | <span style="color:red">7,070</span> | 49,493 |
 | 7 |  |  |
 | 8 |  |  |
 | 9 |  |  |
@@ -33,6 +33,6 @@ I am also taking advantage of the fact that I racked up lots of steps at the sta
 | 15 |  |  |
 | 16 |  |  |
 | 17 |  |  |
-|Total|  | 281,583 |
+|Total| 7,883 | 331,076 |
 
-_Updated 10/01/2018_
+_Updated 10/15/2018_
