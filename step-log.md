@@ -22,7 +22,7 @@ I am also taking advantage of the fact that I racked up lots of steps at the sta
 | 4 | <span style="color:red">5,259</span> | 36,812 |
 | 5 | <span style="color:red">7,489</span> | 52,423 |
 | 6 | <span style="color:red">7,070</span> | 49,493 |
-| 7 |  |  |
+| 7 | <span style="color:red">7,248</span> | 50,734 |
 | 8 |  |  |
 | 9 |  |  |
 | 10 |  |  |
