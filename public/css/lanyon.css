@@ -324,6 +324,10 @@ a.sidebar-nav-item:focus {
 .post-title {
   margin-top: 0;
 }
+.404-title {
+  color: #303030;
+  text-align: center;
+}
 
 /* Meta data line below post title */
 .post-date {
