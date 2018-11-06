@@ -325,6 +325,7 @@ a.sidebar-nav-item:focus {
   margin-top: 0;
 }
 .page-title-404 {
+  padding-bottom: 2rem;
   font-family: "PT-Mono", monospace;
   color: #212121;
 }
