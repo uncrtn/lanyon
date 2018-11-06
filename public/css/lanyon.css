@@ -448,11 +448,11 @@ a.pagination-item:hover {
  * Based on colors from Base16: http://chriskempson.github.io/base16/#default.
  */
  
- /* Dark Blue */
+ /* Dark and Blue */
 .theme-base-db .sidebar,
 .theme-base-db .sidebar-toggle:active,
 .theme-base-db #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #282c37;
+  background-color: #141414;
 }
 .theme-base-db .container a,
 .theme-base-db .sidebar-toggle,
