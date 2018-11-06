@@ -9,7 +9,7 @@ title:            uncrtn
 tagline:          'trying to communicate'
 description:      'Built on GitHub Pages with <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme <a href="https://github.com/poole/lanyon" target="_blank">Lanyon</a>. <br> Follow <a style="color:#00baff" href="https://micro.blog/uncrtn" target="_blank">@uncrtn on Micro.blog</a>.'
 url:              
-baseurl:          '/'
+baseurl:          'https://uncrtn.com'
 
 # About/contact
 author:
