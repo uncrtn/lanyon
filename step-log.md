@@ -25,7 +25,7 @@ I am also taking advantage of the fact that I racked up lots of steps at the sta
 | 7 | <span style="color:red">7,248</span> | 50,734 |
 | 8 | 8,379 | 58,653 |
 | 9 | 8,368 | 58,577 |
-| 10 |  |  |
+| 10 | <span style="color:red">6,906</span> | 48,342 |
 | 11 |  |  |
 | 12 |  |  |
 | 13 |  |  |
@@ -33,6 +33,6 @@ I am also taking advantage of the fact that I racked up lots of steps at the sta
 | 15 |  |  |
 | 16 |  |  |
 | 17 |  |  |
-|Total| 7,921 | 499,040 |
+|Total| 7,820 | 547,382 |
 
-_Updated 11/05/2018_
+_Updated 11/12/2018_
