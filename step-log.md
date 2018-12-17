@@ -30,9 +30,9 @@ I am also taking advantage of the fact that I racked up lots of steps at the sta
 | 12 | 7,656 | 53,590 |
 | 13 | 8,986 | 62,902 |
 | 14 | 8,056 | 56,392 |
-| 15 |  |  |
+| 15 | 8,548 | 59,836 |
 | 16 |  |  |
 | 17 |  |  |
-|Total| 7,910 | 775,216 |
+|Total| 7,953 | 835,052 |
 
-_Updated 12/12/2018_
+_Updated 12/17/2018_
